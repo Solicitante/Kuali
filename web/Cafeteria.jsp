@@ -52,7 +52,7 @@ if(sessionOk.getAttribute("usuario")==null){
     </head>
     <body>
         <header>
-        
+            <p>Proponer cambio</p>
         <nav id="nav" class="nav1">
             <div class="contenedor-nav">
                 <div class="logo">
